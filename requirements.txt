@@ -1,0 +1,9 @@
+streamlit
+tensorflow-cpu
+opencv-python
+numpy
+Pillow
+scikit-learn
+scipy
+tqdm
+ml-dtypes

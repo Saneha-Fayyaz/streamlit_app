@@ -1,0 +1,31 @@
+.venv/
+__pycache__/
+*.py[cod]
+*~
+*.swp
+.DS_Store
+.env
+*.log
+*.sqlite3
+*.pot
+*.mo
+instance/
+.webassets-cache
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python packages
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
